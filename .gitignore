@@ -1,0 +1,24 @@
+*.class
+.classpath
+.project
+.settings
+
+target
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+
+
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+
+
+
